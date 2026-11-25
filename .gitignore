@@ -1,0 +1,10 @@
+dados/
+*.zip
+*.7z
+*.jez
+*.logjez
+__pycache__/
+*.pyc
+.DS_Store
+resultados/*.csv
+resultados/*.json
